@@ -9,4 +9,4 @@
 
  | Estudiante | Correo | Repositorio |
 | ------ | ----------- | ----------- |
-| student-name | student@mail.com  | student-repo.git  |
+| Sergio Diaz | student@mail.com  | student-repo.git  |
